@@ -5,31 +5,34 @@
 # UEG
 # Disciplina: Interação Humano-Computador
 # Professor: Heuber Gustavo
-# Aluno: Danillo Araújo
-* Danillo - [@Danillosdd](https://www.github.com/Danillosdd)
+# Aluno: Danillo Araújo - [@Danillosdd](https://www.github.com/Danillosdd)
 
 
-## Autores
+## Documentação
 
-* Danillo - [@Danillosdd](https://www.github.com/Danillosdd)
+* Fonte: Inter
 
-* Diego - [@diegodevweb](https://www.github.com/diegodevweb)
-
-* Elvis - [@elvissilva12](https://www.github.com/elvissilva12)
-
-* Jeferson- [@jsrgodoy](https://www.github.com/jsrgodoy)
-
-
-
-## Documentação de cores
-
-| Cor               | Hexadecimal                                                |
-| ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#ac9675](https://via.placeholder.com/10/ac9675?text=+) #ac9675 |
-| Cor exemplo       | ![#f5eeee](https://via.placeholder.com/10/f5eeee?text=+) #f5eeee |
-| Cor exemplo       | ![#2a130a](https://via.placeholder.com/10/2a130a?text=+) #2a130a |
-| Cor exemplo       | ![#e4d7ce](https://via.placeholder.com/10/e4d7ce?text=+) #e4d7ce |
-| Cor exemplo       | ![#aea393](https://via.placeholder.com/10/aea393?text=+) #aea393 |
+* CORES
+| Hexadecimal                                                      |
+| ---------------------------------------------------------------- |
+| ![#bac4cb](https://via.placeholder.com/10/bac4cb?text=+) #bac4cb |
+| ![#e8eeef](https://via.placeholder.com/10/e8eeef?text=+) #e8eeef |
+| ![#4bc970](https://via.placeholder.com/10/4bc970?text=+) #4bc970 |
+| ![#5fcf80](https://via.placeholder.com/10/5fcf80?text=+) #5fcf80 |
+| ![#33353d](https://via.placeholder.com/10/33353d?text=+) #33353d |
+| ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
+| ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
+| ![#26272B](https://via.placeholder.com/10/26272B?text=+) #26272B |
+| ![#3b5998](https://via.placeholder.com/10/3b5998?text=+) #3b5998 |
+| ![#00aced](https://via.placeholder.com/10/00aced?text=+) #00aced |
+| ![#007bb6](https://via.placeholder.com/10/007bb6?text=+) #007bb6 |
+| ![#ea4c89](https://via.placeholder.com/10/ea4c89?text=+) #ea4c89 |
+| ![#f5eeee](https://via.placeholder.com/10/f5eeee?text=+) #f5eeee |
+| ![#333333](https://via.placeholder.com/10/333333?text=+) #333333 |
+| ![#303e49](https://via.placeholder.com/10/303e49?text=+) #303e49 |
+| ![#384047](https://via.placeholder.com/10/384047?text=+) #384047 |
+| ![#737373](https://via.placeholder.com/10/737373?text=+) #737373 |
+| ![#bbbbbb](https://via.placeholder.com/10/bbbbbb?text=+) #bbbbbb |
 
 
 ## Stack utilizada
