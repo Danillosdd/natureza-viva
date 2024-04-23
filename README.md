@@ -13,6 +13,7 @@
 * Fonte: Inter
 
 * CORES
+
 | Hexadecimal                                                      |
 | ---------------------------------------------------------------- |
 | ![#bac4cb](https://via.placeholder.com/10/bac4cb?text=+) #bac4cb |
