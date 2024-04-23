@@ -38,7 +38,7 @@
 
 ## Stack utilizada
 
-**Projeto:** [Figma](https://www.figma.com/file/LyLIhcQYdkUq8Wi81UAN93/natureza-viva?type=design&node-id=0-1&mode=design)
+**Projeto:** [Figma](https://www.figma.com/file/sHZ1IZNWuahi1PFlZ9jYd7/natureza-viva?type=design&mode=dev&t=LqipGrlieY7wGuaG-1)
 
 
 
