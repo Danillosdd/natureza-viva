@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/Danillosdd/natureza-viva/blob/main/img/logotipo.png?raw=true)
+![Logo](https://github.com/Danillosdd/natureza-viva/blob/main/img/logo.png?raw=true)
 
 
 # UEG
