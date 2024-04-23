@@ -1,10 +1,10 @@
 /*
-DANILLO.INFO
 UEG - 2024/01
-INTERAÇÃO HUMANO COMPUTADOR
+INTERAÇÃO HUMANO-COMPUTADOR
+DANILLO ARAÚJO
 */
 
-/*RESETAR*/
+/*------ RESETAR PADRÕES ------*/
 
 * {
     margin: 0;
@@ -23,7 +23,8 @@ body {
     clear: both;
 }
 
-/*HEADER*/
+/*------ HEADER ------*/
+
 header {
     width: 100%;
     background-size: cover;
@@ -209,7 +210,7 @@ header #retangulo #botao-retangulo {
 }
 
 
-/*MENU MOBILE*/
+/*------ MENU MOBILE ------*/
 
 #menu-mobile {
     display: none;
@@ -341,9 +342,7 @@ header #retangulo #botao-retangulo {
 
 }
 
-/*MAIN*/
-
-/*PALESTRANTES*/
+/*------ PALESTRANTES ------*/
 
 main #palestrantes {
     display: flex;
@@ -507,7 +506,7 @@ main #palestrantes .icons {
 }
 
 
-/*CRONOGRAMA DA PROGRAMAÇÃO*/
+/*------ CRONOGRAMA DA PROGRAMAÇÃO ------*/
 
 #programacao {
     padding: 5% 0%;
@@ -1011,7 +1010,7 @@ main #palestrantes .icons {
     }
 }
 
-/*INSCRIÇÃO*/
+/*------ INSCRIÇÃO ------*/
 
 #inscricao form {
     max-width: 300px;
@@ -1121,7 +1120,7 @@ main #palestrantes .icons {
 
 }
 
-/*FOOTER*/
+/*------ FOOTER ------*/
 
 footer {
     background-color: rgba(0, 0, 0, 0.9);
@@ -1301,7 +1300,7 @@ footer .social-icons a {
 }
 
 
-/*VOLTAR AO TOPO*/
+/*------ VOLTAR AO TOPO ------*/
 
 #voltar-ao-topo #myBtn {
     display: none;

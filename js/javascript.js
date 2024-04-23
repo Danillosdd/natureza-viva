@@ -1,3 +1,7 @@
+//UEG - 2024/01
+//INTERAÇÃO HUMANO-COMPUTADOR
+//DANILLO ARAÚJO
+
 //EFEITO  DA SECTION CRONOGRAMA DA PROGRAMAÇÃO
 
 jQuery(document).ready(function ($) {
