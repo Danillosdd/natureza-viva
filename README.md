@@ -8,17 +8,16 @@
 # Aluno: Danillo Araújo - [@Danillosdd](https://www.github.com/Danillosdd)
 
 
+## Demonstração
+
+
+**Visualização do Site:** https://danillosdd.github.io/natureza-viva
+
 ## Stack utilizada
 
 **Projeto:** [Figma](https://www.figma.com/file/sHZ1IZNWuahi1PFlZ9jYd7/natureza-viva?type=design&mode=dev&t=LqipGrlieY7wGuaG-1) 
 
-**Front-end:** HTML, CSS, JAVASCRIPT
-
-## Demonstração
-
-
-https://danillosdd.github.io/natureza-viva/
-
+**Front-end:** HTML, CSS, JAVASCRIPT.
 
 ## Documentação
 
