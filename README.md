@@ -8,11 +8,23 @@
 # Aluno: Danillo Araújo - [@Danillosdd](https://www.github.com/Danillosdd)
 
 
+## Stack utilizada
+
+**Projeto:** [Figma](https://www.figma.com/file/sHZ1IZNWuahi1PFlZ9jYd7/natureza-viva?type=design&mode=dev&t=LqipGrlieY7wGuaG-1) 
+
+**Front-end:** HTML, CSS, JAVASCRIPT
+
+## Demonstração
+
+
+https://jsrgodoy.github.io/projeto_koffie
+
+
 ## Documentação
 
-* Fonte: Inter
+* Fonte: Inter.
 
-* CORES
+* CORES:
 
 | Hexadecimal                                                      |
 | ---------------------------------------------------------------- |
@@ -34,15 +46,3 @@
 | ![#384047](https://via.placeholder.com/10/384047?text=+) #384047 |
 | ![#737373](https://via.placeholder.com/10/737373?text=+) #737373 |
 | ![#bbbbbb](https://via.placeholder.com/10/bbbbbb?text=+) #bbbbbb |
-
-
-## Stack utilizada
-
-**Projeto:** [Figma](https://www.figma.com/file/sHZ1IZNWuahi1PFlZ9jYd7/natureza-viva?type=design&mode=dev&t=LqipGrlieY7wGuaG-1) 
-
-**Front-end:** HTML, CSS, JAVASCRIPT
-
-## Demonstração
-
-
-https://jsrgodoy.github.io/projeto_koffie
