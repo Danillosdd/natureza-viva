@@ -2,7 +2,11 @@
 ![Logo](https://github.com/Danillosdd/natureza-viva/blob/main/img/logotipo.png?raw=true)
 
 
-# Projeto Koffie
+# UEG
+# Disciplina: Interação Humano-Computador
+# Professor: Heuber Gustavo
+# Aluno: Danillo Araújo
+* Danillo - [@Danillosdd](https://www.github.com/Danillosdd)
 
 
 ## Autores
